@@ -1,0 +1,57 @@
+Animal,Diet,FoodType1,FoodType2,FoodType3,FoodType4,Dose1,Dose2,Dose3,Dose4,Full Food PerDay
+Rabbit,Herbivore,Straw,Greens,Carrots,Grass,50,20,20,10,20
+Goose,Herbivore,Straw,Grains,MealWorms,Bread,50,10,20,20,20
+Capybara,Herbivore,Straw,Grains,WaterPlants,Poop,50,20,20,10,40
+Pig,Omnivore,Blended Pellets,Vegetables,Beans,LeftOvers,50,20,10,20,50
+Duck,Omnivore,Blended Pellets,Grains,Greens,MealWorms,20,30,30,20,20
+Snake,Carnivore,Meat Pellet,Eggs,SmallCarcass,Insects,30,30,20,20,20
+Badger,Omnivore,Blended Pellets,EarthWorms,Apples,SmallCarcass,50,20,10,20,50
+Hyena,Carnivore,Meat Pellet,Insects,Carrion,Eggs,60,10,10,20,50
+Porcupine,Herbivore,Straw,Berries,TreeBark,Roots,50,30,10,10,10
+Bear,Omnivore,Blended Pellets,Fish,Honey,Roots,50,30,10,10,300
+Meerkat,Omnivore,Blended Pellets,Spiders,Scorpions,CoffeeBerry,30,30,30,10,40
+Horse,Herbivore,Straw,Grains,Carrots,SugarCubes,30,40,20,10,200
+Armadillo,Omnivore,Blended Pellets,Insects,Plants,Carrion,40,30,20,10,20
+Donkey,Herbivore,Straw,Hay,Carrots,SaltBlock,50,20,20,10,150
+Cow,Herbivore,Straw,Grass,Grains,Apples,30,30,30,10,200
+Tapir,Herbivore,Straw,Plants,Banana,Berries,20,30,30,20,40
+Ostrich,Omnivore,Blended Pellets,Seeds,Roots,Grains,20,40,20,20,150
+Tortoise,Herbivore,Straw,Apples,Lettuce,Grass,10,30,30,30,100
+Chicken,Omnivore,Blended Pellets,Grains,MealWorms,Grit,50,20,20,10,20
+Camel,Herbivore,Straw,Hay,ThornyShrubs,SaltBush,30,20,20,30,250
+Penguin,Carnivore,OceanFlakes,Fish,Squid,Krill,10,50,20,20,100
+Antelope,Herbivore,Vegetable Pellets,ThornyShrubs,Branches,Plants,30,30,20,20,130
+Panther,Carnivore,Meat Pellet,SmallCarcass,LargeCarcass,PreparedMeat,20,10,40,30,100
+Seal,Carnivore,OceanFlakes,Fish,Squid,LargeFish,30,30,30,10,80
+Wolf,Carnivore,Meat Pellet,PreparedMeat,Vegetables,LargeCarcass,55,10,10,25,90
+Lemur,Herbivore,Vegetable Pellets,Berries,Fruit,Insects,10,30,30,30,30
+Alpaca,Herbivore,Vegetable Pellets,Hay,Grass,Carrots,10,40,20,30,160
+KomodoDragon,Carnivore,Meat Pellet,SmallCarcass,Fish,Offspring,10,30,30,30,80
+Walrus,Carnivore,OceanFlakes,Fish,Squid,Clams,30,20,30,20,200
+Orangutan,Omnivore,Blended Pellets,Fruit,Insects,TreeBark,10,30,30,30,110
+PolarBear,Carnivore,OceanFlakes,LargeFish,Roots,SmallCarcass,15,20,25,40,250
+Skunk,Omnivore,Blended Pellets,Nightshade,Lettuce,Spiders,10,20,40,30,30
+Crocodile,Carnivore,Meat Pellet,LargeFish,LargeCarcass,SmallCarcass,15,20,40,25,150
+WildBoar,Omnivore,Blended Pellets,Insects,Vegetables,Garbage,10,30,30,30,160
+Peacock,Omnivore,Blended Pellets,Seeds,Fruit,Plants,20,30,30,20,60
+Platypus,Carnivore,OceanFlakes,EarthWorms,Insects,Shrimps,10,20,30,40,30
+Deer,Herbivore,Straw,Fruit,TreeBark,Leaves,20,30,20,30,90
+Monkey,Omnivore,Blended Pellets,Banana,Seeds,Fruit,10,50,20,20,80
+Flamingo,Omnivore,Blended Pellets,PigmentTablets,WaterPlants,Shrimps,20,10,30,40,60
+Gorilla,Omnivore,Straw,Roots,Termites,Bamboo,5,30,35,30,400
+Tiger,Omnivore,Meat Pellet,LargeCarcass,PreparedMeat,Bones,10,30,50,10,210
+Kangaroo,Herbivore,Vegetable Pellets,Hay,Greens,Leaves,10,30,30,30,190
+Beavers,Herbivore,Vegetable Pellets,WaterPlants,Roots,TreeBark,10,40,30,20,40
+RedPanda,Herbivore,Vegetable Pellets,Bamboo,Berries,Eggs,5,30,30,35,20
+Zebra,Herbivore,Straw,Grass,Leaves,Branches,20,40,20,20,230
+Fox,Carnivore,Meat Pellet,SmallCarcass,Mice,EarthWorms,5,35,40,20,50
+Raccoon,Omnivore,Blended Pellets,Corn,Berries,Garbage,10,35,10,45,30
+Elephant,Herbivore,Straw,ThornyShrubs,Branches,TreeBark,10,40,30,20,590
+Cheetah,Carnivore,Meat Pellet,SmallCarcass,LargeCarcass,PreparedMeat,5,30,35,30,210
+Otter,Carnivore,Meat Pellet,Fish,Clams,Snails,20,20,20,40,30
+Owl,Carnivore,Meat Pellet,Insects,SmallCarcass,Mice,15,25,30,30,10
+Rhino,Herbivore,Straw,Branches,ThornyShrubs,Grass,20,30,30,20,390
+Panda,Herbivore,Vegetable Pellets,Bamboo,Apples,Leaves,5,75,10,10,320
+Hippopotamus,Omnivore,Straw,Grass,WaterMelon,HippoPoop,20,30,45,5,490
+Lion,Carnivore,Meat Pellet,LargeCarcass,Mice,PreparedMeat,5,35,20,40,240
+Giraffe,Herbivore,Straw,Leaves,Fruit,Branches,10,30,20,40,320

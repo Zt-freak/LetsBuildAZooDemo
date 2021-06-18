@@ -1,0 +1,66 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: TinyZoo.Z_SummaryPopUps.ParkSummary.Finances.Revenue.Table.FinanceTableRowType
+// Assembly: LetsBuildAZoo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: DEB7467C-E857-4369-A6B7-78A1E0037E5E
+// Assembly location: C:\Program Files (x86)\Steam\steamapps\common\Let's Build a Zoo Demo\LetsBuildAZoo.exe
+
+namespace TinyZoo.Z_SummaryPopUps.ParkSummary.Finances.Revenue.Table
+{
+  public enum FinanceTableRowType
+  {
+    In_EntryTicket_DEP,
+    In_Food_DEP,
+    In_Beverage_DEP,
+    In_Souveniers_DEP,
+    In_Donations_DEP,
+    In_Commodities_DEP,
+    In_BlackMarket_DEP,
+    In_Count,
+    Out_Buildings_DEP,
+    Out_Retail_DEP,
+    Out_NonRetailStaff_DEP,
+    Out_AdminMarketing_DEP,
+    Out_Upgrades_DEP,
+    Out_Animals_DEP,
+    Out_Food_DEP,
+    Out_Count,
+    Sum_RevenueIn,
+    Sum_RunningCosts,
+    Sum_Purchases,
+    Sum_Count,
+    ProfitCat_FoodShops,
+    ProfitCat_DrinksShops,
+    ProfitCat_GiftShops,
+    ProfitCat_ParkRevenue,
+    ProfitCat_Commodities,
+    ProfitCat_Animals,
+    ProfitCat_OtherRevenue,
+    ProfitCat_Count,
+    Animals_Food,
+    Animals_Vet,
+    Animals_Zookeeper,
+    Animals_ShelterBuy,
+    Animals_BlackMarketBuy,
+    Animals_BlackMarketSell,
+    Animals_PenBuild,
+    Animals_Enrichment,
+    Park_Tickets,
+    Park_StaffBonus,
+    Park_GeneralParkStaff,
+    Park_Utilities,
+    Park_Decoration,
+    Park_Infrastructure,
+    Park_Land,
+    Park_Recruitment,
+    Other_LoansIn,
+    Other_LoansOut,
+    Other_SponsersIn,
+    Others_DonationsIn,
+    Others_DonationsStaffOut,
+    Others_Bribe,
+    Others_TaskRewardsIn,
+    Others_FinesOut,
+    ShopOrFactoryTILETYPE,
+    Count,
+  }
+}

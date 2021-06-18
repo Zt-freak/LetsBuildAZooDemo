@@ -1,0 +1,1081 @@
+String ID,Enum,English
+0,Admin_ResearchRmd01,Try to save enough money to build a research building! Research is essential for making progress.
+1,Transport,Transport
+2,Accept,Accept
+3,Per_Day,${0} per day
+4,Locked,Locked
+5,NeedResearch,You need to research this before you can construct it.
+6,Build,Build 
+7,For, For $
+8,NotEnoughCash,Not enough cash.
+9,BtnBuy,Buy
+10,BtnDemolish,Demolish
+11,BtnTransfer,Transfer
+12,Day,Day {0}
+13,BtnBack,Back
+14,BtnNext,Next
+15,Cemetary,Cemetery
+16,FieldPicketFenceEnclosure,Field Fence
+17,FieldPicketFenceEnclosureDesc,Placeholder
+18,CorruptedGrassEnclosure,Corrupted Grass
+19,CorruptedGrassEnclosureDesc,Placeholder
+20,CorruptedForestEnclosure,Corrupted Forest
+21,CorruptedForestEnclosureDesc,Placeholder
+22,PerTile,per tile
+23,StructureOverlap,Must not overlap existing structure.
+24,StructureTaller,Please make structure taller.
+25,StructureWider,Please make structure wider.
+26,StructureLarger,Please build a larger structure.
+27,StructureTooLarge,This is too large.
+28,StructureNoMoney,You do not have enough money.
+29,NotEnoughMoneyCost,Not enough money: Cost ${0}
+30,BuildCemetery,Build cemetery here.
+31,Collection,Collection
+32,SignIn,Sign In
+33,Options,Options
+34,Credits,Credits
+35,PhotoMode,Photo Mode
+36,Contact,Contact
+37,Restore,Restore Purchases
+38,Species,Species: {0}
+39,Name,Name: {0}
+40,Habitat,Habitat: {0}
+41,DailyIncome,Daily income
+42,ResearchLabDesc,"Research happens all the time... The more research facilities you construct, the quicker we discover things!"
+43,ResearchComplete,~All research is complete in this category.
+44,WaitingResearch,Waiting for new research options.
+45,WrongHabitat,WRONG HABITAT - TRANSFER TO THE {0} BLOCK
+46,Money,Money
+47,Analogue,Stick - Analogue
+48,Digital,Stick - Digital
+49,Off,Stick - Off
+50,AnalogueOnly,Analogue Stick Only
+51,DigitalOnly,Digital Stick Only
+52,MusicVolume,Music Volume
+53,SFXVolume,SFX Volume
+54,FlashingOff,Flashing Effects- Off
+55,FlashingOn,Flashing Effects- On
+56,BtnResearch,Research
+57,BtnResume,Resume
+58,BtnQuit,Quit
+59,Remaining,remaining
+60,BtnPlay,Play
+61,QuitToMain,Quit To Main
+62,Paused,PAUSED
+63,Max,Max
+64,Cost,Cost
+65,Confirm,Confirm
+66,Cancel,Cancel
+67,Claim,Claim
+68,Full,FULL
+69,NoSpace,NO SPACE
+70,Use,Use
+71,Complete,Complete
+72,LinkAccount,Link your account in the Sign In area to unlock a new alien.
+73,Purchase01,Please Wait while we contact the purchase historians...
+74,Purchase02,"Could not restore purchase history, please try again soon"
+75,Purchase03,"Our historians are taking a bit too long, please try again later"
+76,Purchase04,The archives have been restored!
+77,Any,Any
+78,LanguageSetting,Language
+79,Yes,Yes
+80,No,No
+81,Skip,Skip
+82,Store,Store
+83,BuildKR,Build {0} for ${1}
+84,Progress,Progress
+85,CurrentIncome,Current Income: ${0}
+86,Reset,Reset
+87,GrassEnclosure,Grass
+88,GrassEnclosureDesc,Perfect for little critters to play around in!
+89,ForestEnclosure,Forest
+90,ForestEnclosureDesc,Make your animals feel right at home with these lushy green vegetation.
+91,SavannahEnclosure,Savannah
+92,SavannahEnclosureDesc,Majestic yellow plains for your animals. 
+93,DesertEnclosure,Desert
+94,DesertEnclosureDesc,Hot scorching sand that keeps the desert critters happy.
+95,MountainEnclosure,Mountain
+96,MountainEnclosureDesc,Rocky mounds that gives mountain animals a workout. 
+97,ArcticEnclosure,Arctic
+98,ArcticEnclosureDesc,Animals that live in the cold would love to live in these enclosures!
+99,TropicalEnclosure,Tropical
+100,TropicalEnclosureDesc,Overgrown forests that is humid and hot. Some critters will really thrive here!
+101,SmallGiftShop,Gift Stand
+102,SmallGiftShopDesc,Get some souvenirs of your time here!
+103,LionHotDogShop,Hot Dog Shop
+104,LionHotDogShopDesc,Hungry like a lion? Grab your hotdogs now!
+105,ElephantGiftShop,Gift Shop
+106,ElephantGiftShopDesc,Get some souvenirs of your time here!
+107,SignboardFront,Signboard
+108,SignboardFrontDesc,Education is important
+109,Lamppost,Simple Lamp
+110,LamppostDesc,Light up your life!
+111,WhiteDustbin,Giraffe Bin
+112,WhiteDustbinDesc,A stylish bin.
+113,GreenDustbin,GreenBin
+114,GreenDustbinDesc,Green makes it more eco-friendly!
+115,DrinksVendingMachine,Drink Vendor
+116,DrinksVendingMachineDesc,Fancy vending machine for all your drink needs!
+117,SnacksVendingMachine,Snacks Vendor
+118,SnacksVendingMachineDesc,Quench your thirst now with a drink!
+119,PlantPot,Potted Plant
+120,PlantPotDesc,Plants always liven up an area.
+121,RedFlag,Red Banner
+122,RedFlagDesc,Decorate your zoo with these bright banners!
+123,RoundFountain,Fountain
+124,RoundFountainDesc,Make your zoo more grand-looking!
+125,IceCreamTruck,Ice Cream Van
+126,IceCreamTruckDesc,Get your Ice Cream now!
+127,BigIceCreamShop,Sundae Shop
+128,BigIceCreamShopDesc,More ice cream is always good.
+129,CoconutShop,Drinks Shop
+130,CoconutShopDesc,Get a taste of the tropics!
+131,PandaBurgerShop,Burger Store
+132,PandaBurgerShopDesc,Adorable and affordable burgers waiting for you!
+133,BalloonShop,Balloon Shop
+134,BalloonShopDesc,Animal balloons are popular with both kids and adults. 
+135,FlowerPatch,Flower Patch
+136,FlowerPatchDesc,Flowers will brighten up the park.
+137,DangerSign,Danger Sign
+138,DangerSignDesc,More is always better for people with no common sense.
+139,SmallDesertRockDeco,Desert Rock 1
+140,SmallDesertRockDecoDesc,Fake plastic rocks to add to the atmosphere.
+141,DesertRockDeco,Desert Rock 2
+142,DesertRockDecoDesc,Plastic rocks to make it look like a desert. 
+143,DesertCactusDeco,Desert Cactus
+144,DesertCactusDecoDesc,This cactus is plastic and smooth.
+145,KangarooPizzaShop,Pizza Shop
+146,KangarooPizzaShopDesc,Joey's Pizza for all the pizza lovers!
+147,CottonCandyShop,Candy Stand
+148,CottonCandyShopDesc,"Sweet, artificial-flavored ,fluffy clouds on a stick."
+149,SlushieShop,Slushie Shop
+150,SlushieShopDesc,Get your brain freeze now.
+151,ChurroShop,Churros Stand
+152,ChurroShopDesc,Hot and delicious churros straight out of the fryer.
+153,WoodenToliet,Restroom
+154,WoodenTolietDesc,Everyone has needs.
+155,SnakeHuggingBooth,Snake Exhibit
+156,SnakeHuggingBoothDesc,Guests will love getting up close and personal with these reptiles!
+157,TreeExhibit,Tree Exhibit
+158,TreeExhibitDesc,Take pictures of animals on trees!
+159,InfoBooth,Info Kiosk
+160,InfoBoothDesc,"Get park maps, show schedules, and other information here. "
+161,BusStop,Bus Stop
+162,BusStopDesc,The shuttle bus will pull over at these stops!
+163,BarSignboardDesc,Direct or misdirect your guests as you please.
+164,Umbrella,Umbrella
+165,UmbrellaDesc,Provide some shade under the hot sun!
+166,BigTree,Big Tree
+167,BigTreeDesc,Make your zoo more green with some greenery.
+168,TikiShelter,Tiki Shelter
+169,TikiShelterDesc,Take cover during storms.
+170,ZooMap,Zoo Map
+171,ZooMapDesc,This map allows people to locate where they are.
+172,BrownBench,Brown Bench
+173,BrownBenchDesc,Standard brown bench.
+174,WhiteBench,White Bench
+175,WhiteBenchDesc,"White benches look fancier, that is what some say."
+176,NoSwimmingSign,No Swimming
+177,NoSwimmingSignDesc,Don't you dare swim here!
+178,PottedPlantDesc,Leafy plant to make things pretty.
+179,ThickSignboardDesc,Blank signboard for people to read.
+180,ElephantFountain,Ele-Fountain
+181,ElephantFountainDesc,Splashing good fun!
+182,FloorLight,Floor Light
+183,FloorLightDesc,Light up your park at night with these floor lights.
+184,RustyKegShop,Drinks Bar
+185,PopcornWeaselShop,Popcorn Stall
+186,PopcornWeaselShopDesc,"Pop Goes the Weasel! Popcorn so good, it will pop in your mouth!"
+187,Nursery,Nursery
+188,QuarantineOffice,Quarantine
+189,VetOffice,Vet Office
+190,VetOfficeDesc,Cure your sick animals and end their suffering.
+191,ElephantMarbleFountain,Ele-Fountain 2
+192,ElephantMarbleFountainDesc,
+193,FlamingoHedge,Flamin-Hedge
+194,FlamingoHedgeDesc,Hedge animal cut in the shape of an flamingo.
+195,GiraffeHedge,Gira-Hedge
+196,GiraffeHedgeDesc,Hedge animal cut in the shape of an giraffe.
+197,ElephantHedge,Ele-Hedge
+198,ElephantHedgeDesc,Hedge animal cut in the shape of an elephant.
+199,MonkeyStatue,Monkey Deco
+200,MonkeyStatueDesc,A large statue of a smiling monkey.
+201,GiantSunFlower,Sunflower
+202,GiantSunFlowerDesc,Overgrown sunflower that looks like it came out of a fantasy garden.
+203,ZooStandee,Zoo Standee
+204,ZooStandeeDesc,Take a photo with it to prove you went to the zoo!
+205,PenguinStandee,Penguin Fun
+206,PenguinStandeeDesc,Everyone wants to become a penguin.
+207,BearStandee,Bear Fun
+208,BearStandeeDesc,Become a cute bear!
+209,SnakeBench,Snake Bench
+210,SnakeBenchDesc,This giant snake will be a fine collection to your zoo.
+211,ZooTree,Tall Tree
+212,ZooTreeDesc,Add more greenery to your zoo!
+213,SnakeSignpost,Snake Post
+214,SnakeSignpostDesc,Show the way with a cute snake!
+215,UmbrellaBench,Umbrella Bench
+216,UmbrellaBenchDesc,A cozy rest place under the hot sun.
+217,MonkeyBanner,Monkey Flag
+218,MonkeyBannerDesc,More promotion and advertisements!
+219,SakuraTree,Sakura Tree
+220,SakuraTreeDesc,Pink petals add a touch of color to your park.
+221,LionPlayground,Lion Slide
+222,LionPlaygroundDesc,Dive into the lion's mouth!
+223,SpringChicken,Spring Chicken
+224,SpringChickenDesc,This cannot be eaten!
+225,SpringHorse,Spring Horse
+226,SpringHorseDesc,Children will enjoy this.
+227,RockElephant,Rock Elephant
+228,RockElephantDesc,This rock has been carved into the shape of an elephant.
+229,YellowBush,Flower Bush
+230,YellowBushDesc,Specks of yellow adorn the lush leaves of the bush.
+231,RedFlower,Red Flower
+232,RedFlowerDesc,The color of passion will spark joy in your zoo.
+233,WhiteFlower,White Flower
+234,WhiteFlowerDesc,The color of purity to brighten up your zoo.
+235,PurpleFlower,Purple Flower
+236,PurpleFlowerDesc,This regal color will make your zoo look more noble.
+237,PurpleFlowerPatch,Flower Patch
+238,PurpleFlowerPatchDesc,Because more flowers is always good.
+239,PenguinTrashbin,Penguin Bin
+240,PenguinTrashbinDesc,Penguin
+241,SealStandee,Seal Fun
+242,SealStandeeDesc,Become the seal you were always meant to be.
+243,RedShelter,Red Shelter
+244,RedShelterDesc,A nice area to put your feet up and relax for a few moments.
+245,CrocCrossingSign,Croc Sign
+246,CrocCrossingSignDesc,"Do you think Crocodiles need a ""Warning: Human Crossing"" Sign? "
+247,MenuSign,Menu Sign
+248,MenuSignDesc,A handy signboard to list out items on.
+249,SmallBarTable,Bar Table
+250,SmallBarTableDesc,To make it easy to eat and drink.
+251,NoPhotoSign,No Photo Sign
+252,NoPhotoSignDesc,No means no.
+253,OwlClock,Owl Clock
+254,OwlClockDesc,Literally the owl tells the time here.
+255,HeShee,Aztec Statue
+256,HeSheeDesc,A plastic statue based on Aztec statues.
+257,Totem,Stone Totem
+258,TotemDesc,Inscribed with engravings that no one can read.
+259,AztecSign,Aztec Sign
+260,AztecSignDesc,Beautiful signboard to tell people where you are.
+261,AztecTorch,Aztec Torch
+262,AztecTorchDesc,"A flaming torch, LED operated."
+263,AztecPlant,Aztec Plant
+264,AztecPlantDesc,Greenery from a different region.
+265,WoodenTotem,Wooden Totem
+266,WoodenTotemDesc,Tall structure adds new heights to your zoo.
+267,StoreRoom,Store Room
+268,StoreRoomDesc,Store more items with more storage!
+269,ArchitectOffice,Research Hub
+270,ArchitectOfficeDesc,Hire Researchers to help research more buildings!
+271,LargeArchitectOffice,Research Hub 2
+272,ArchitectOfficeDesc,Hire even more Researches to help research more buildings!
+273,GlueFactory,Glue Factory
+274,GlueFactoryDesc,Re-use and recycle animal parts to make great glue!
+275,BaconFactory,Bacon Factory
+276,BaconFactoryDesc,Put piggies into here to turn them into bacon to sell!
+277,BuffaloWingFactory,Wings Factory
+278,BuffaloWingFactoryDesc,A great mix of buffalo and chicken makes these delicious!
+279,Barn,Barn
+280,BarnDesc,A old-school barn for farms.
+281,WheatFarmPlot,Wheat Plot
+282,WheatFarmPlotDesc,Plant some wheat to grow!
+283,Silo,Silo
+284,SiloDesc,Store crops in a giant metal container.
+285,Floor_RedCircles,Red Circle Tile
+286,Floor_RedCirclesDesc,Red floors make your zoo flashy!
+287,Floor_GreenGrass,Grass
+288,Floor_GreenGrassDesc,Add green grass to the zoo.
+289,Floor_Dirt,Dirt
+290,Floor_DirtDesc,"Dirt paths, easy to walk on."
+291,Floor_GreyBricks,Grey Bricks
+292,Floor_GreyBricksDesc,"Tile these bricks, make your zoo fancier."
+293,PalmTree,Palm Tree
+294,PalmTreeDesc,Add a tropical touch to your zoo!
+295,GreenTree,Small Tree
+296,GreenTreeDesc,These trees love rainy weather.
+297,LongGrass,Long Grass
+298,LongGrassDesc,Overgrown grass that adds more nature to your zoo.
+299,IrisPlantPot,Potted Iris
+300,IrisPlantPotDesc,Cute flowers to spruce up the place.
+301,YellowPlantPot,Yellow Flower
+302,YellowPlantPotDesc,It is not cauliflower!
+303,BonsaiPlantPot,Potted Bonsai
+304,BonsaiPlantPotDesc,A nicely trimmed potted tree.
+305,Ferns,Fern
+306,FernsDesc,Are these fake or real?
+307,SmallRock,Small Rock
+308,SmallRockDesc,Stones that roll around.
+309,MediumRock,Medium Rock
+310,MediumRockDesc,These rocks lying around seem a little unnatural...
+311,LargeMossyRock,Mossy Rock
+312,LargeMossyRockDesc,"Mossy rock, looks great beside a pool of water."
+313,TigerPhoto,Tiger Selfie
+314,TigerPhotoDesc,Take a photo with a chained tiger! It is great!
+315,NoticeBoard,Log Plaque
+316,NoticeBoardDesc,Impart more info to your visitors!
+317,BeetleGlassExhibit,Beetle Exhibit
+318,BeetleGlassExhibitDesc,Display beetles in this glass exhibit
+319,ButterflyGlassExhibit,Butterfly Exhibit
+320,ButterflyGlassExhibitDesc,Display butterfly in this glass exhibit
+321,GlassExhibit,Glass Exhibit
+322,GlassExhibitDesc,Display insects and other stuff in this glass exhibit
+323,Floor_BlueCircleTiles,Blue Stone Tile
+324,Floor_BlueCircleTilesDesc,Cute bubbly circles lighten the mood.
+325,Floor_ColorfulBrickTile,Red Bricks
+326,Floor_ColorfulBrickTileDesc,Add color to gray bricks!
+327,Floor_OrangeTiles,Orange Tile
+328,Floor_OrangeTilesDesc,Bright orange makes the zoo look energetic.
+329,Floor_WoodenBoards,Wooden Planks
+330,Floor_WoodenBoardsDesc,Lay out wooden boards for guests to walk on!
+331,Floor_MetalDecoTile,Metal Panels
+332,Floor_MetalDecoTileDesc,"Add some touch of metal around, decorate the floor."
+333,Floor_PawDecoTile,Pawprint Tile
+334,Floor_PawDecoTileDesc,Adding paw prints to the floor is great fun!
+335,EmptySoilPatch,Soil Patch
+336,EmptySoilPatchDesc,Grow your own crops!
+337,MiniFountain,Mini Fountain
+338,ElegantTallFountain,Tall Fountain
+339,HedgeArchYellowFlowers,Hedge Arch 1
+340,HedgeArchWhiteFlowers,Hedge Arch 2
+341,WhiteMetalVineArch,Vine Arch
+342,BlackMetalRoseArch,Rose Arch
+343,PeacockBush,Peacock Bush
+344,Binoculars,Binoculars
+345,TwinLamppost,Twin Lamp
+346,CurlLampPost,Curl Lamp
+347,TwinCurlsLampPost,Fancy Lamp
+348,WoodenLampPost,Gas Lamp
+349,TripletsLampPost,Triple Lights
+350,ClassicLampPost,Urban Lamp
+351,WhiteClassicLampPost,White Lamp
+352,FlamingoLampPost,Flamingo Light
+353,SealLampPost,Seal Light
+354,BallLampPost,Ball Lamp
+355,SwingingBench,Swing Bench
+356,GreenGardenBench,Garden Bench
+357,GreenChair,Green Chair
+358,WoodenChair,Wooden Chair
+359,LongWoodenBench,Wooden Bench
+360,CamelChair,Camel Chair
+361,Greenhouse,Greenhouse
+362,Placeholder,Placeholder
+363,PandaChair,Panda Chair
+364,ATMMachine,ATM Machine
+365,SmallSpeaker,Small Speaker
+366,LargeSpeaker,Large Speaker
+367,RockSpeaker,Rock Speaker
+368,IceSpeaker,Ice Speaker
+369,KatCoffeeShop,Kat Coffee
+370,ShellShackShop,Shell Shack
+371,TacoTruck,Taco Truck
+372,PretzelShop,Pretzel Shop
+373,Slaughterhouse,Abattoir
+374,IglooToliet,Ig-Loo
+375,LionTrashbin,Lion Bin
+376,BearTrashbin,Bear Bin
+377,Floor_Cobblestone,Cobblestone
+378,Floor_PinkSmallTiles,Pink Tiles
+379,Floor_BrownOctoTile,Brown Tiles
+380,Floor_BrownOctoTile2,Brown Outline Tiles
+381,Floor_GreenAndBlueDiamondTile,Diamond Tiles
+382,Floor_BrownSquareTile,Square Tiles
+383,PineTree,Pine Tree
+384,BrickToliet,Brick Wall Toilet
+385,EggBatteryFarm,Egg Battery
+386,ColoredTree,Autumn Tree
+387,DarkBush,Bush
+388,Cactus,Flower Cactus
+389,Floor_Snow,Snow
+390,PenguinSignboard,Penguin Post
+391,IceArch,Ice Arch
+392,SmallIceRocks,Ice Rocks
+393,ThinIceRocks,Icicles
+394,IceCrystals,Ice Crystals
+395,Snowman,Snowman
+396,IcyTree,Icy Tree
+397,LionSnowSculpture,Snow Lion
+398,SealIceSculpture,Ice Seal
+399,DeerIceSculpture,Ice Deer
+400,BearIceSculpture,Ice Bear
+401,BirdIceSculpture,Ice Flamingo
+402,GiraffeIceSculpture,Ice Giraffe
+403,BlueGrass,Blue Grass
+404,IceShelter,Ice Shelter
+405,ZooIceSign,Ice Sign
+406,IceCastle,Ice Castle
+407,IceChair,Ice Chair
+408,GiantTree,Giant Tree
+409,ZooRockSign,Zoo Rock Deco
+410,GiantPigBalloon,Pig Balloon
+411,Bamboo,Bamboo
+412,WaterTower,Water Tower
+413,Cart,Cart
+414,SmallBush,Thorny Shrub
+415,DeadTree,Dead Tree
+416,WantedPoster,Wanted Poster
+417,BigRocks,Big Rocks
+418,Pyramid,Pyramid
+419,SandTower,Sand Tower
+420,SmallPyramid,Small Pyramid
+421,Sphinx,Sphinx
+422,PalmTreesTall,Tall Palm Trees
+423,TileBusStop,Tiled Bus Stop
+424,Anubis,Anubis
+425,WesternWindmill,Wood Windmill
+426,JungleToliet,Jungle Toilet
+427,TreeLogBench,Log Bench
+428,TreeStump,Tree Stump
+429,GlowingPlant,Glowing Plant
+430,RedMushrooms,Mushrooms 1
+431,BrownMushrooms,Mushrooms 2
+432,LeafyFern,Leafy Fern
+433,LargeFern,Large Fern
+434,TreeWithVines,Vine Tree
+435,TreeSwing,Tree Swing
+436,JungleArch,Jungle Arch
+437,JungleWaterfall,Jungle falls
+438,MushroomShelter,Fungi Shelter
+439,Floor_WoodenPlanks,Wooden Planks
+440,Floor_WoodenTrunk,Log Footpath
+441,Floor_StonePebbles,Stone Pebbles
+442,Volume_Water,Water
+443,Volume_WoodenBridge,Wooden Square
+444,ChocolateVendingMachine,Choco Vendor
+445,RockyWaterfall,Rocky Falls
+446,WaterTrough,Water Trough
+447,ImpossibleBuilding,Improbable Lab
+448,DNABuilding,CRISPR Splicer
+449,MeatProcessor,Processor
+450,AnimalColosseum,Colosseum
+451,Incinerator,Incinerator
+452,Enclosure,Enclosure
+453,ToiletDesc,"When nature calls, people need to stop looking at nature and powder their noses."
+454,BinDesc,"If there isn't a bin nearby when people are holding garbage, then the floor will have to do."
+455,ATMDesc,"When people run out of money, having an ATM nearby allows them to go into debt if needs be, just so they can buy another fridge magnet.~So long as the spending isn't ending, the zoo will always have room to grow."
+456,WaterPumpStationDesc,"Water pumps distribute water to your animals through the water troughs in your enclosures. If you don't have full coverage, animals will die!"
+457,AttractionsDesc,Placeholder
+458,BenchesDesc,Placeholder
+459,DecorativeDesc,Placeholder
+460,EnclosureDesc,Different enclosures are more suited for different animals. Research each animal to discover the best habitat for them.
+461,StoreRoomOrCupboardDesc,"The store room holds food for your animals. Note, you can only have one of these in your zoo."
+462,ArchitectDesc,Researchers use this building to discover new upgrades for your zoo. You can only have one of each type of Research Hub in your zoo.
+463,NurseryDesc,Use selective breeding to discover new animal types and help map each species genome.
+464,QuarantineOfficeDesc,"Use this building for new animals to avoid spreading disease, or put infectious animals here to get better."
+465,ImpossibleBuildingDesc,"Use science to create vegetable based meat alternatives that are indiscernible from the real thing, for your animals and shops."
+466,MeatProcessorDesc,Convert deceased animals into useful resources.
+467,IncineratorDesc,"Burn deceased animals to avoid risk of disease, and keep the park free of unsightly corpses."
+468,SurveillanceBuildingDesc,"Allows you to keep close tabs on your customers activities, and deal with trouble makers."
+469,DNABuildingDesc,Create entirely new species of animals using your mapped genome data and the power of CRISPR.
+470,FoodStoreDesc,Food shops satisfy your customers' hunger.
+471,DrinksStoreDesc,Drinks shops satisfy your customers' thirst.
+472,RustyKegShopDesc,"Alcohol can earn a lot of money, but comes with certain risks"
+473,KatCoffeeShopDesc,"Caffeine packs an energy kick, and slightly contributes to quenching a customers' thirst."
+474,GiftShopDesc,"Gift shops, an additional way for visitors to part with their cash!"
+475,Water_SmallLilyPads,Small Lilypad
+476,Water_LargeLilyPads,Big Lilypad
+477,Water_Reeds,Reeds
+478,Water_LotusFlower,Lotus Flower
+479,Water_FlatRock,Flat Rock
+480,Water_Lanturn,Stone Lantern
+481,Water_LightBall,Light Ball
+482,Water_BirdStatue,Stone Crane
+483,Water_FlappingBirdStatue,Stone Crane 2
+484,Water_FishFountain,Fish Fountain
+485,Water_WaterJarFountain,Pot Fountain
+486,Water_Fountain,Elegant Spring
+487,Water_FloatingCrate,Bobbing Crate
+488,Water_FloatingBarrel,Bobbing Barrel
+489,Water_WaterJet,Water Jet
+490,Water_TreasureChest,Treasure Deco
+491,Water_SunkenShip,Sunken Ship
+492,Water_IceRocks,Iceberg 1
+493,Water_FlatIce,Iceberg 2
+494,Water_IceBoulders,Iceberg 3
+495,Water_RockBoulders,Iceberg 4
+496,Water_FloatHouse,Float House
+497,Enrichment_WaterSprinklers,Water Sprinklers
+498,Enrichment_Trampoline,Trampoline
+499,Enrichment_ScratchingPost,Scratching Post
+500,Enrichment_LargeBall,Large Ball
+501,Enrichment_SmallBall,Small Ball
+502,Enrichment_TugRopeToy,Tug Rope
+503,Enrichment_ChewToy,Chew Toy
+504,Enrichment_Tunnel,Tunnel
+505,Enrichment_WoodenLogs,Wooden Logs
+506,Enrichment_Perch,Perch
+507,Shelter_SmallRockCave,Rock Shelter 1
+508,Shelter_LargeRockCave,Rock Shelter 2
+509,Enrichment_HighPerch,High Beams
+510,Shelter_LargeWoodenHouse,Wooden Shelter
+511,Shelter_Igloo,Igloo Shelter
+512,DarkTreeDeco,Placeholder
+513,SwingTreeDeco,Tree Swing
+514,WaterPumpStation,Water Pump
+515,Water_Skull,Skull Deco
+516,Water_CannonballJet,Cannon Splash
+517,Water_WaterMill,Water Mill
+518,Water_FrogFountain,Frog Fountain
+519,Water_WaterLanturn,Paper Lantern
+520,GiantBearBalloon,Bear Balloon
+521,LightHouse,Lighthouse
+522,Water_IceArchRock,Ice Arch
+523,Water_MangroveTree,Mangrove 1
+524,Water_SmallMangroveTree,Mangrove 2
+525,Water_GrassyRock,Grassy Rock 1
+526,Water_SmallGrassyRock,Grassy Rock 2
+527,Water_DeerScare,Bamboo Deco
+528,GiraffeAirDancer,Air Dancer 1
+529,SnakeAirDancer,Air Dancer 2
+530,Shelter_MossyRock,Mossy Shelter
+531,Enrichment_CarTire,Car Tire
+532,Enrichment_RockCliff,Cliffs
+533,Enrichment_SaltBlock,Salt Block
+534,Enrichment_Mirror,Mirror
+535,Enrichment_ScentMarker,Scent Marker
+536,Enrichment_JollyBall,Jolly Ball
+537,Enrichment_CardboardBox,Cardboard Box
+538,Shelter_IceRocks,Ice Shelter
+539,Water_SunkenRocksLarge,Deep Rocks 1
+540,Water_SunkenRocksMed,Deep Rocks 2
+541,Water_SunkenRocksSmall,Deep Rocks 3
+542,WindTurbine,Wind Turbine
+543,SolarPanel,Solar Panel
+544,RecyclingBin,Recycling Bin
+545,CrossSign,Mute Sign
+546,Volume_DarkGrass,Dark Grass
+547,Volume_YellowGrass,Yellow Grass
+548,Volume_Sand,Sand
+549,MilkBatteryFarm,Milk Battery
+550,HelicopterRide,Helicopter Ride
+551,Caravan,Caravan
+552,OldWestToliet,Old West Toilet
+553,WestBarrel,Old West Barrel
+554,WestWoodenBox,Old West Crate
+555,WoodenTrashbin,Wooden Bin
+556,WesternArch,Old West Arch
+557,OrangeStoneArch,Clay Arch
+558,BoneArch,Giant Bone
+559,BoneDeco,Skeleton Deco
+560,SmallCactus,Small Cactus
+561,ArrowSignboard,Arrow Sign
+562,SmallGrass,Small Grass
+563,WestWoodenBoard,Notice Board
+564,TreeWithLights,Fairy Light Tree
+565,CarpStreamers,Carp Streamers
+566,HorizonValleyZooBalloon,HVZ Balloon
+567,PineTreeDark,Pine Tree
+568,ArticBush,Artic Bush
+569,DarkSmallPlant,Winter Sprout
+570,DeadWinterTree,Winter Tree
+571,TallRoofHouse,Viking House
+572,DesertTree,Joshua Tree
+573,CactusLong,Tall Cactus
+574,AztacTempleFloor,Aztac Floor
+575,AztacSnakeStatue,Aztac Snake
+576,AztacTemple,Aztac Temple
+577,Volume_LightMud,Pale Mud
+578,Volume_LightGrass,Pale Grass
+579,AztacToliet,Aztac Toilet
+580,AztacMap,Aztac Map
+581,AztacChair,Aztac Bench
+582,BigMountainRocks,Clay Rocks 1
+583,OrangeLargeRocks,Clay Rocks 2
+584,AztacTempleGate,Aztac Gate
+585,AsianToliet,Asian Toilet
+586,AsianGate,Asian Gate
+587,AsianPavillion,Asian Pavilion
+588,AsianLight,Asian Lamp
+589,CoinSquasher,Coin Squasher
+590,RockyZooSign,Bear Zoo Sign
+591,MediumStones,Rock Cluster
+592,LightGreenTree,Small Elm Tree
+593,CrocHandbagFactory,Croc Factory
+594,SnakeSkinFactory,Snake Factory
+595,SurveillanceBuilding,Surveillance
+596,HotAirBalloonRide,Hot Air Balloon
+597,Farmhouse,Farmhouse
+598,FarmProcessor,Farm Processor
+599,Windmill,Windmill
+600,BeerBrewery,Beer Brewery
+601,RecyclingCenter,Recycle Center
+602,AnimalRehabilitationBuilding,Rehab Center
+603,Warehouse,Warehouse
+604,RainCollectionBuilding,Water Tower
+605,Lion,Lion
+606,Tiger,Tiger
+607,Panda,Panda
+608,Cheetah,Cheetah
+609,Elephant,Elephant
+610,PolarBear,Polar Bear
+611,Bear,Bear
+612,Panther,Panther
+613,Giraffe,Giraffe
+614,Capybara,Capybara
+615,Alpaca,Alpaca
+616,Rhino,Rhino
+617,RedPanda,Red Panda
+618,Hippopotamus,Hippopotamus
+619,Penguin,Penguin
+620,Gorilla,Gorilla
+621,KomodoDragon,Komodo Dragon
+622,Wolf,Wolf
+623,Zebra,Zebra
+624,Armadillo,Armadillo
+625,Orangutan,Orangutan
+626,Fox,Fox
+627,Kangaroo,Kangaroo
+628,Monkey,Monkey
+629,Seal,Seal
+630,Camel,Camel
+631,Owl,Owl
+632,Platypus,Platypus
+633,Ostrich,Ostrich
+634,Tapir,Tapir
+635,Crocodile,Crocodile
+636,Otter,Otter
+637,Antelope,Antelope
+638,Porcupine,Porcupine
+639,Flamingo,Flamingo
+640,Walrus,Walrus
+641,Snake,Snake
+642,Horse,Horse
+643,Beavers,Beaver
+644,Lemur,Lemur
+645,Peacock,Peacock
+646,Meerkat,Meerkat
+647,Tortoise,Tortoise
+648,Deer,Deer
+649,WildBoar,Wild Boar
+650,Hyena,Hyena
+651,Raccoon,Raccoon
+652,Badger,Badger
+653,Skunk,Skunk
+654,Duck,Duck
+655,Donkey,Donkey
+656,Pig,Pig
+657,Rabbit,Rabbit
+658,Cow,Cow
+659,Goose,Goose
+660,Chicken,Chicken
+661,Fruit,Fruit
+662,Hay,Hay
+663,Straw,Straw
+664,MeatPellet,Meat-Pellet
+665,VegetablePellet,Vegetable-Pellet
+666,Carrots,Carrots
+667,Grains,Grains
+668,OceanFlakes,Ocean Flakes
+669,BlendedPellet,Blended-Pellet
+670,Greens,Greens
+671,Grass,Grass
+672,Grit,Grit
+673,Bread,Bread
+674,MealWorms,Meal Worms
+675,WaterPlants,Water Plants
+676,Poop,Poop
+677,RootVegetables,Root Vegetables
+678,Beans,Beans
+679,LeftOvers,Left Overs
+680,Eggs,Eggs
+681,SmallCarcass,Small Carcass
+682,Insects,Insects
+683,Earthworms,Earthworms
+684,Apples,Apples
+685,Carrion,Carrion
+686,Berries,Berries
+687,TreeBark,Tree Bark
+688,Roots,Roots
+689,Fish,Fish
+690,Honey,Honey
+691,Spiders,Spiders
+692,Scorpions,Scorpions
+693,CoffeeBerries,Coffee Berries
+694,SugarCubes,Sugar Cubes
+695,Plants,Plants
+696,SaltBlock,Salt Block
+697,Bananas,Bananas
+698,Seeds,Seeds
+699,Lettuce,Lettuce
+700,ThornyShrubs,Thorny Shrubs
+701,SaltBush,Salt Bush
+702,Squid,Squid
+703,Krill,Krill
+704,Branches,Branches
+705,LargeCarcass,Large Carcass
+706,PreparedMeat,Prepared Meat
+707,LargeFish,Large Fish
+708,Offspring,Offspring
+709,Clams,Clams
+710,Nightshade,Nightshade
+711,Pork,Pork
+712,Gelatin,Gelatin
+713,Bones,Bones
+714,ChickenMeat,Chicken Meat
+715,AlligatorSkin,Alligator Skin
+716,SnakeSkin,Snake Skin
+717,HorseHoof,Horse Hoof
+718,CrocHandbag,Handbag
+719,ChickenWing,Buffalo Wing
+720,Bacon,Bacon
+721,Glue,Glue
+722,SnakeSkinBelt,Belt
+723,Beer,Beer
+724,Hops,Hops
+725,Flour,Flour
+726,Popcorn,Popcorn
+727,Starch,Starch
+728,Juice,Juice
+729,Luwak,Luwak
+730,Colouring,Colouring
+731,Cream,Cream
+732,ImpossibleMeat,Impossible Meat
+733,Corn,Corn
+734,Potato,Potato
+735,Leaves,Leaves
+736,Watermelon,Watermelon
+737,Beetroot,Beetroot
+738,Fructose,Fructose
+739,SoyBeans,Soy Beans
+740,Cabbage,Cabbage
+741,Infant,infant
+742,Special,Special
+743,Herbivore,Herbivore
+744,Carnivore,Carnivore
+745,Omnivore,Omnivore
+746,Purchased,Purchased
+747,PlaceGate,Place Gate
+748,LoadGame,Load Game
+749,Settings,Settings
+750,NewGame,New Game
+751,Continue,Continue
+752,AvatarSelect,Avatar Select
+753,AvatarSelectTXT1,Who shall I employ to run and manage my new zoo?~Pick the person who you want to be.
+754,AvatarSelectTXT2,I think I made a great choice!
+755,ZooNameEntry,Zoo Name Entry
+756,ZooNameEntryDesc,Please enter a name for your zoo.
+757,TaskNoRequest,No requests
+758,TaskComplete,You have completed all tasks from this person.
+759,TaskNew,This person has a new task for you.
+760,TaskNewAfterThis,This person will have a new task after this: 
+761,TaskCompleteCaps,Tasks completed for this person 
+762,TaskNewHeader,New Task!
+763,TaskNoTask,This person has no current tasks for you.
+764,TaskCurrent,Current Task: 
+765,TaskAllComplete,All available tasks have been completed.
+766,TaskFinish,Finish Task
+767,Joe,Joe (Exotic Animal Dealer)
+768,Trevor,Trevor (Soccer Captain)
+769,Kathleen,Kathleen (Investor)
+770,Lynda,Lynda (Mayor)
+771,Timbo,Timbo (Australian Zoo)
+772,Franny,Franny (Complainer)
+773,Glinda,Glinda (Animal Shelter)
+774,Steve,Steve (Transport Planner)
+775,BlackMarketGuyTXT,"Look, thanks to you I ended up in prison. One day, I will get out. And when I do, mark my words, I will be coming for you."
+776,FootballCaptainTXT,Thanks for your help. The team and I love coming here after our matches every Sunday!
+777,InvestorTXT,"Well you really seem to have made a success for yourself.~Perhaps things are not too good between us right now, but if you ever consider starting a new business, please come and ask me!"
+778,MayorTXT,Our town is all the more spectacular thanks to your zoo!
+779,Zoo_AustrailiaTXT,"G'day! I have to say when I first met you, I had no idea things would go so far! Your zoo is now known the world over."
+780,ComplainerTXT,"To be frank, I have been trying to think of new things to complain about, but you really made a lot of improvements.~Don't worry, I am watching you, I am sure you will slip up soon enough, giving me a reason to complain again!"
+781,AnimalShelterGirlTXT,"Thanks so much! Thanks to you, we now have a fully thriving animal shelter.~Now lost cats and dogs will always have a place to stay!"
+782,TransportPlanerTXT,You unlocked a new bus route! (TEMP)
+783,BtnCustomize,Customize
+784,BtnDefault,Default
+785,INVESTOR1_Heading,Visit Management Office
+786,INVESTOR1_Desc,"Hi, can you come to the management office to check on your tasks? I have some things for you to do."
+787,INVESTOR1_Complete,"All kinds of requests end up here, and I know you will want to keep on top of them. Try viewing a new task now."
+788,INVESTOR1_TaskSummary,Select the management Office.
+789,INVESTOR2_Heading,Build an enclosure
+790,INVESTOR2_Desc,"Every zoo needs animals, but before you can take a delivery of any animal, you need to build an enclosure."
+791,INVESTOR2_Complete,"Great! Now that we have an enclosure, we can start the real business of finding animals to make our zoo one step closer to becoming the best zoo on planet Earth!"
+792,INVESTOR2_TaskSummary,Build enclosure.
+793,INVESTOR3_Heading,Open For Business
+794,INVESTOR3_Desc,It's probably time to start trying to earn a living. Let's open the zoo so paying customers can start turning up.
+795,INVESTOR3_TaskSummary,Open the zoo!
+796,INVESTOR4_Heading,Seed Fund
+797,INVESTOR4_Desc,"Since I invested in this business, you have various performance targets to hit in order to unlock more capital. Reach 100 total customers and I will release some additional funding."
+798,INVESTOR4_TaskSummary,100 Customers.
+799,INVESTOR5_Heading,Seed Fund II
+800,INVESTOR5_Desc,"Your next performance target is to have 50 customers in one day. Only then will I give you more capital, together we can make this business a success."
+801,INVESTOR5_TaskSummary,50 Customers.
+802,INVESTOR6_Heading,Series B
+803,INVESTOR6_Desc,"You are doing a good job. If you can swell your bank balance to $2000, I will be able to call on my friends to give you additional funding."
+804,INVESTOR6_TaskSummary,Hold $2000.
+805,INVESTOR7_Heading,Series B Pt.II
+806,INVESTOR7_Desc,"Fantastic. I know I always talk about money, but as your investor it's my job to focus on that! If you can earn $25000 in one day we will open up even more funding for you."
+807,INVESTOR7_TaskSummary,Earn $25000.
+808,ANIMALSHELTERGIRL_Heading,Paws for thought
+809,ANIMALSHELTERGIRL_Desc,"I run a local animal shelter, I would really appreciate it if you would sponsor us with a donation of $5000. I can see you are doing fairly well, and any help you can give back to the community is very much appreciated!"
+810,ANIMALSHELTERGIRL_TaskSummary,Donate $5000.
+811,BLACKMARKEYGUY_Heading,Join the black market
+812,BLACKMARKEYGUY_Desc,"I work for an organization that deals in exotic animal trading. You are just the kind of person we want to work with! Just don't ask any questions!~So, firstly I want to sell you something at a very good price just to help build trust between us, buy an animal from me and we can see how things go."
+813,BLACKMARKEYGUY_TaskSummary,Buy Animal from Black Market.
+814,FOOTBALLCAPT_Heading,Sunday League
+815,FOOTBALLCAPT_Desc,"I lead a football team in the {0}. After we play each Sunday, we always want to visit the zoo! The thing is, your bus can only hold ten people and there are 11 of us in the team.~If you can buy a bus that can hold all eleven of us, then chances are we will visit you every Sunday after our game!"
+816,FOOTBALLCAPT_TaskSummary,Buy Bus.
+817,MAYOR_Heading,Welcome to our town!
+818,MAYOR_Desc,"I would love to extend our warmest welcome to you. The people of the city love having a zoo here, and I have personally cleared the land around your zoo for development. So if you want to buy more land to expand, we are happy to sell it to you!"
+819,MAYOR_TaskSummary,Buy Land.
+820,PUBIDIOT_Heading,Store Room
+821,PUBIDIOT_Desc,"Hi there, I can't believe a zoo has opened up here in town. I have a small observation though. Perhaps you might want to feed your animals? Hunger leads to starvation, and starvation leads to death, and I don't want dead animals stinking up the neighborhood so build a store room."
+822,PUBIDIOT_TaskSummary,Build Store Room.
+823,TRANSPORTPLANNER_Heading,It's time to expand!
+824,TRANSPORTPLANNER_Desc,I am head of the transport authority. Only I can approve you opening up new routes across the city. Prove to me that people actually want to go your zoo by having a park rating of at least {0};
+825,TRANSPORTPLANNER_TaskSummary,Buy bus.
+826,AUSZOO_Heading,Overpopulation
+827,AUSZOO_Desc,"I have a gift for you! Come and visit me in my zoo and I can tell you all about it.  So what are you waiting for, find the Australian Zoo on the world map."
+828,AUSZOO_TaskSummary,Visit Australia
+829,PinQuest,Pin Quest
+830,Agriculture,Agriculture
+831,AddToEnclosure,Add To Enclosure
+832,EditEnclosure,Edit Enclosure
+833,LandExpansion,Land Expansion
+834,ItemDetails,Item Details
+835,TicketOffice,Ticket Office
+836,ManagementOffice,Management Office
+837,Ticketing,Ticketing
+838,Factory,Factory
+839,EditItems,Edit Items
+840,Move,Move
+841,Destroy,Destroy
+842,AnimalInfo,Animal Info
+843,AnimalStatus,Animal Status
+844,Shop,Shop
+845,ManageShop,Manage Shop
+846,TicketPrice,Ticket Price
+847,Processing,Processing
+848,Zoning,Zoning
+849,MoveGate,Move Gate
+850,ChangeShape,Change Shape
+851,BuyLand,Buy Land
+852,Decorate,Decorate
+853,Shelter,Shelter
+854,Enrichment,Enrichment
+855,Animals,Animals
+856,AddObjects,Add Objects
+857,ViewObjects,View Objects
+858,ParkStaff,Park Staff
+859,Staff,Staff
+860,GetAnimals,Get Animals
+861,Breeding,Breeding
+862,NX,NX
+863,BuildEnclosure,Build Enclosure
+864,CRISPR,CRISPR
+865,ParkSummary,Park Summary
+866,Appearance,Appearance
+867,Tasks,Tasks
+868,Arrivals,Arrivals
+869,MedicalJournal,Medical Journal
+870,Diseases,Diseases
+871,VetCoverage,Vet Coverage
+872,Manage,Manage
+873,Crops,Crops
+874,Culling,Culling
+875,QUEST_TradeZoo,Complete {0} trades with other zoos.
+876,QUEST_TradeWith,Complete {0} trades with {1}.
+877,QUEST_Bus,Own at least {0} Buses.
+878,QUEST_BusType,Own at least {0} {1}.
+879,QUEST_BusRoute,Own at least {0} Buses on route {1}.
+880,QUEST_Animal,Have at least {0} animals in your zoo.
+881,QUEST_AnimalType,Have at least {0} {1}.
+882,QUEST_AnimalBreed,Have at least {0} {1} of breed type {2}.
+883,QUEST_BuildPen,Build at least {0} animal enclosure.
+884,QUEST_BuildPens,Build at least {0} animal enclosures.
+885,QUEST_OpenZoo,Open Zoo
+886,QUEST_ZooDays,Zoo days in business.
+887,QUEST_ThingsBuilt,Have at least {0} {1} in your zoo.
+888,QUEST_ThingsBuiltType,Build at least {0} things from {1}.
+889,QUEST_Discover,Discover {0}.
+890,QUEST_DiscoverType,Complete {0}  tasks from {1}.
+891,QUEST_Earn,Earn at least ${0} in one day.
+892,QUEST_EarnTotal,Reach ${0} life time revenue.
+893,QUEST_Visitors,Have at least {0} visitors in one day.
+894,QUEST_VisitorsTotal,Have at least {0} lifetime visitors to your zoo.
+895,QUEST_Land,Own at least {0} sectors of land.
+896,QUEST_Blackmarket,Buy at least {0} animals from the black market.
+897,QUEST_ParkRating,Have a park rating of {0}.
+898,QUEST_ViewTask,View your task list.
+899,QUEST_Donate,Donate ${0}.
+900,World_SelectZoo,SELECT ZOO
+901,QUESTSTORY_LondonZoo,London Zoo
+902,QUESTSTORY_Goose1,"So, you may have heard that a goose can be quite, errr.. difficult. Well let me tell you, that most certainly is not the case, and is in no way the reason we are trying to trade a pair of them for just one rabbit. No, not at all."
+903,QUESTSTORY_Goose2,"Oh, you are sure to be happy with these! And they possibly won't be any trouble.. Maybe.. But, I do recommend not letting your visitors get too close."
+904,QUESTSTORY_Pig1,"We have a couple of pigs looking for a new home. Did you know that pigs outperform 3 year old children in cognitive tests and are actually considered smarter than both cats and dogs? Well now you do, so look after them well!"
+905,QUESTSTORY_Pig2,"That's exemplary! I can't wait to hear about how they settle in! Perhaps not the most exotic of animals, but they are certainly my favorite!"
+906,QUESTSTORY_Badger1,We love our badgers here in the United Kingdom. It's a symbol of the countryside! We would love to extend our badger family to your zoo!
+907,QUESTSTORY_Badger2,That's Tip-Top! A trade to be proud of.
+908,QUESTSTORY_SGZoo,Singapore Zoo
+909,QUESTSTORY_MoscowZoo,Moscow Zoo
+910,QUESTSTORY_Meerkat1,"We took these meerkats in, but we just can't seem to get the temperature right for them. I heard you are doing really well with desert-like habitats, so I think we should find a way to trade them."
+911,QUESTSTORY_Meerkat2,I hope you have better luck with them than we did! I am sure they will be happier with you!
+912,QUESTSTORY_Horse1,"Did you know that wild horses actually no longer exist?! These came from Mongolia, and are about as close to wild as you can get these days."
+913,QUESTSTORY_Horse2,Thanks! Have fun with these stunning stallions.
+914,QUESTSTORY_Utah,Salt Lake City
+915,QUESTSTORY_Porcupine1,"This porcupine is doin' fine! Or at least I think he will be, if you can look after him and his mate for us!"
+916,QUESTSTORY_Porcupine2,"Thanks for the trade, but watch out for their quills. Sorry, I don't usually make a point of giving safety warnings about animals."
+917,QUESTSTORY_TorontoZoo,Toronto Zoo
+918,QUESTSTORY_Duck1,"The duck isn't really a symbol of Canada, but we have one on our dollar coin. Well actually we have a Loon, but it's close enough."
+919,QUESTSTORY_Duck2,"They love water, please look after them well."
+920,QUESTSTORY_Armadillo1,"We love Armadillos, and so do you!"
+921,QUESTSTORY_Armadillo2,"They sleep up to 16 hours each day, so make sure they can get their well needed rest daily."
+922,QUESTSTORY_OaklandZoo,Oakland Zoo
+923,QUESTSTORY_Bear1,The bear is the symbol of our state! But we want to spread our sunshine over the whole globe!
+924,QUESTSTORY_Bear2,"Good luck, bears are always loved by everyone!"
+925,QUESTSTORY_SydneyZoo,Sydney Zoo
+926,QUESTSTORY_Rabbit1,"Hi! We had an unexpected boost to our rabbit population last month, and we just don't know what to do with them!~~I heard you were starting a new zoo, and instantly thought we might have found the perfect home for a couple of our floppy eared furballs! What d'ya say?"
+927,QUESTSTORY_Rabbit2,"I am sure you will love them, and your visitors will too!"
+928,QUESTSTORY_Hyena1,"Hyenas aren't as popular here as we'd hoped, which is why we are trying to find a new home for ours. People here think they look a bit too much like Dingos."
+929,QUESTSTORY_Hyena2,I am sad to see them go! But happy these hyenas are going to such a great new home.
+930,QUESTSTORY_TokyoZoo,Tokyo Zoo
+931,QUESTSTORY_Capy1,"You know what is the cutest animal, that a lot of people haven't heard of? That's right, it's the capybara! Here in Japan, we just love them way too much, but we are willing to part with a couple in return for this kind of rabbit. Do you think you can breed one for us?"
+932,QUESTSTORY_Capy2,"Now you look after our capybara! Capy, capy capy!!! Wait, that sounds like the name of a famous sentient hat."
+933,QUESTSTORY_Snake1,"We got more than we bargained for when we picked up several snakes from South America, so much so that we are looking to rehouse a couple of them."
+934,QUESTSTORY_Snake2,"The last rabbit you gave us was such a hit with our visitors, we are overjoyed to have more for our collection!"
+935,BtnDone,Done
+936,BtnOK,OK
+937,STAFF_Area,Select the area you would like this employee to work within.
+938,STAFF_DeadAnimals,Select the enclosures you want to collect dead animals from for processing.
+939,STAFF_ZooKeeper,Select the enclosures you want your zoo keeper to look after.
+940,STAFF_AssignedZones,Assigned zones: 
+941,POPUP_PubsOpen,Pubs not closed
+942,POPUP_PubsClose,Close all pubs
+943,POPUP_NoPrivateBar,No private bar
+944,POPUP_YesPrivateBar,Provide a private bar
+945,CostPerTile,Cost per tile ${0}.
+946,CantAfford,You cannot afford this item.
+947,NEW_NewAnimals,New Animals!
+948,NEW_Collections,These animals have been added to your collection.
+949,NEW_Collection,This animal has been added to your collection.
+950,NEW_ReceivedPair,Received: {0} x{1}!
+951,NEW_ReceivedMale,You received a male {0}!
+952,NEW_ReceivedFemale,You received a female {0}!
+953,NEW_Get,Get
+954,NEW_NewDiscovery,New Discovery
+955,STAFF_AccessWorkplace,Access via workplace
+956,STAFF_GoWorkplace,"~To manage this type of employee, you must go their workplace."
+957,STAFF_NoBuildings,No buildings
+958,STAFF_NeedConstruct,You need to construct this building before any employees can work there.
+959,TRADE_TradeComplete,Trade Completed!
+960,TRADE_ViewTrade,View Trade
+961,TRADE_ReturnToZoo,Return to Zoo
+962,EnclosureSelect,Select an enclosure to deliver your new animals to.
+963,SkipDay,Skip Day
+964,Monday,Monday
+965,Tuesday,Tuesday
+966,Wednesday,Wednesday
+967,Thursday,Thursday
+968,Friday,Friday
+969,Saturday,Saturday
+970,Sunday,Sunday
+971,NightTime,Night Time
+972,Details,Details
+973,CancelOrder,Cancel Order
+974,NoRefund,Your payment will not be refunded. Are you sure you want to cancel this order?
+975,Days,Days
+976,InBound,In bound
+977,InBound_SPLIT_In,In
+978,InBound_SPLIT_Bound,bound
+979,WaitingToOpen,Waiting To Open
+980,Opens,Opens: 
+981,Closes,Closes: 
+982,WaitingCustomer,Waiting for customers to leave
+983,GAMEOPT_DaysOperation,Days in operation
+984,GAMEOPT_Completion,Completion
+985,Morality,Morality
+986,Cash,Cash
+987,LandUnlocked,Land Unlocked
+988,ResearchDiscovered,Research Discovered
+989,Evil,Evil
+990,Good,Good
+991,Neutral,Neutral
+992,MoralityRequirement,Morality Requirement
+993,NotEnoughMorality,Not enough morality points to use.
+994,STAFF_GonkyMascot,Gonky Mascot
+995,STAFF_BearMascot,Bear Mascot
+996,STAFF_TakoMascot,Tako Ranger
+997,STAFF_SharkMascot,Sharkman
+998,STAFF_PenguinMascot,Morality Penguin
+999,STAFF_PigMascot,Piggsy
+1000,STAFF_PandaMascot,Karate-Panda
+1001,STAFF_AnimalKeeper,Animal Keeper
+1002,STAFF_Janitor,Janitor
+1003,STAFF_SecurityGuard,Security Guard
+1004,STAFF_Mechanic,Mechanic
+1005,STAFF_Shopkeeper,Shopkeeper
+1006,STAFF_Breeder,Breeder
+1007,STAFF_DNAResearcher,Geneticist
+1008,STAFF_TourGuide,Tour Guide
+1009,STAFF_MeatProcessorWorker,Animal Undertaker
+1010,STAFF_FactoryWorker,Factory Worker
+1011,STAFF_Vet,Vet
+1012,STAFF_SlaughterhouseWorker,Abattoir Worker
+1013,STAFF_Farmer,Farmer
+1014,STAFF_CropPicker,Crop Picker
+1015,STAFF_WarehouseWorker,Storeman
+1016,STAFF_Architect,Researcher
+1017,GateIntegrity,Gate Integrity
+1018,CallMechanic,Call~Mechanic
+1019,RequiresMechanic,Requires~Mechanic
+1020,EmployMechanic,EMPLOY A MECHANIC~Use the ticket office at the front gate to hire mechanics and other park staff.
+1021,CNTRL_Navigation,Navigation
+1022,CNTRL_HoldToPan,Hold to pan
+1023,CNTRL_ScrollToZoom,Scroll to zoom
+1024,CNTRL_ClickToBuild,Click to build
+1025,CNTRL_ClickToUndo,Click to undo
+1026,CNTRL_BuildStructure,Build Structure
+1027,CNTRL_ClickToRemove,Click to remove
+1028,CNTRL_ClickToRotate,Click to rotate
+1029,CNTRL_SelectToBuild,Select item to build
+1030,CNTRL_ClickToSelect1,Click to Select
+1031,CNTRL_ClickToSelect2,thing to build
+1032,CNTRL_SelectLocation,Select Location
+1033,CNTRL_ClickToPlace1,Click to place
+1034,CNTRL_ClickToPlace2,gate
+1035,CNTRL_ClickToConfirm,Click to confirm
+1036,CNTRL_SelectPen,Select Pen
+1037,CNTRL_ClickArrow1,Click on arrow
+1038,CNTRL_ClickArrow2,to pick pen
+1039,ProgressSummary,ProgressSummary
+1040,Employees,Employees
+1041,Achievements,Achievements
+1042,SPECIALResearcher_TaskSummary,Build a Research building 
+1043,SPECIALResearcher_TaskDescription,Build a research structure before the end of the day and get a daily sponsorship for the next 2 weeks
+1044,SPECIALResearcher_Heading,Research Grant
+1045,Enrichment_SmallBallDesc,Enrich your animals by adding this ball in your enclosure.
+1046,Enrichment_TrampolineDesc,Let your animals have a glimpse outside their pen while having fun.
+1047,WaterTroughDesc,Linking a trough up to a water pump provides your animals with water.
+1048,INVESTORBETA_Heading,Seed Fund 2
+1049,INVESTORBETA_Desc,"It's great to see our business growing, I need to report to my partners on the growth. So your next goal is to reach 200 total customers."
+1050,INVESTORBETA_TaskSummary,200 Customers.
+1051,PUBIDIOT_Heading2,Hire a Janitor
+1052,PUBIDIOT_Desc2,Your zoo is going to become a rat infested den of disgust unless you hire someone to tidy it up.
+1053,PUBIDIOT_TaskSummary2,Hire Janitor from Ticket Office
+1054,QUEST_EmployThis,Employ {0} x {1}.
+1055,INVESTORB1_Heading,Proving grounds
+1056,INVESTORB1_Desc,"Now we are finally up and running, I would love to start tracking your progress. If you reach 25 total customers, I will be able to give you a small performance bonus."
+1057,INVESTORB1_TaskSummary,25 Customers.
+1058,GENOMESCIENTISTB1_Heading,Build CRISPR Splicer
+1059,GENOMESCIENTISTB1_Desc,"New technology has enabled us to splice animals together, as long as we have the genome of that animal. Show the wonders of science to the public, and build a CRISPR Splicer now!"
+1060,GENOMESCIENTISTB1_TaskSummary,Build the CRISPR Splicer
+1061,GENOMESCIENTISTB2_Heading,Make hybrids!
+1062,GENOMESCIENTISTB2_Desc,Now we can make hybrids! We should start developing one as soon as we can. Go to the CRISPR Splicer and then start making one now.
+1063,GENOMESCIENTISTB2_TaskSummary,Own 4 hybrid animals
+1064,GeneticistTXT,Thanks for helping out in the advancement of science! We are fortunate to be living in an age where we can see such wonders.
+1065,SCIENTISTB1_Heading,Hire a Researcher
+1066,SCIENTISTB1_Desc,"Now that you unlocked a new vacancy in the Research Hub, we can now hire more employees! That would really make our research go faster!"
+1067,SCIENTISTB1_TaskSummary,Hire another Researcher in the Research Hub
+1068,ScientistTXT,That's wonderful! We will be looking forward to seeing what kind of new things you will make in the future.
+1069,ANIMALSPOTTERB1_Heading,Animal Utopia
+1070,ANIMALSPOTTERB1_Desc,"You know, I really love seeing lots of animals! It's really a pity that I don't see that many here. You should get more of them!"
+1071,ANIMALSPOTTERB1_TaskSummary,Have 10 Animals
+1072,AnimalSpotterTXT,Thanks for making my wish come true! I have never seen a zoo more lively!
+1073,ANIMALSPOTTERB2_Heading,Animal Utopia 2
+1074,ANIMALSPOTTERB2_Desc,"Wow! But I have a burning need to see even more animals. If you could kindly bring more into your zoo, that would be awesome!"
+1075,ANIMALSPOTTERB2_TaskSummary,Have 25 Animals
+1076,SCIENTISTB2_Heading,Research an item
+1077,SCIENTISTB2_Desc,"We are really keen to begin our work, so tell us what you would like us to research on by going to the Research Hub and allocating your research points to unlock more items!"
+1078,SCIENTISTB2_TaskSummary,Research an item in the Research Hub
+1079,Count,Count
